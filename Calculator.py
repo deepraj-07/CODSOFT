@@ -70,3 +70,73 @@ while True:
         for item in history:
             print(" ", item)
         print()
+
+#Output Display: 
+
+# 🔢 Welcome to the Multi-Feature Calculator!
+# You can perform: +(Addition), -(Subtraction), *(MUltiplication), /(Division), %(Modulus), ^ (power), // (floor division)
+# Type 'exit' at any point to stop the calculator.
+
+# Enter the first number: 25
+# Enter the second number: 25
+# Choose an operation to perform:
+#  + > Addition
+#  - > Subtraction
+#  * > Multiplication
+#  / > Division
+#  % > Modulus
+#  ^ > Power (Exponential)
+#  // > Floor Division
+# Enter your chosen operation: *
+# ✅ Result: 625.0
+
+# Would you like to see the calculation history? (yes/no): yes
+
+# 🧾 Previous Calculations:
+#   25.0 * 25.0 = 625.0
+
+# Enter the first number: 20
+# Enter the second number: 30
+# Choose an operation to perform:
+#  + > Addition
+#  - > Subtraction
+#  * > Multiplication
+#  / > Division
+#  % > Modulus
+#  ^ > Power (Exponential)
+#  // > Floor Division
+# Enter your chosen operation: +
+# ✅ Result: 50.0
+
+# Would you like to see the calculation history? (yes/no): yes
+
+# 🧾 Previous Calculations:
+#   25.0 * 25.0 = 625.0
+#   20.0 + 30.0 = 50.0
+
+# Enter the first number: 30
+# Enter the second number: 5
+# Choose an operation to perform:
+#  + > Addition
+#  - > Subtraction
+#  * > Multiplication
+#  / > Division
+#  % > Modulus
+#  ^ > Power (Exponential)
+#  // > Floor Division
+# Enter your chosen operation: /
+# ✅ Result: 6.0
+
+# Would you like to see the calculation history? (yes/no): Yes
+# Enter the first number: 20
+# Enter the second number: 4
+# Choose an operation to perform:
+#  + > Addition
+#  - > Subtraction
+#  * > Multiplication
+#  / > Division
+#  % > Modulus
+#  ^ > Power (Exponential)
+#  // > Floor Division
+# Enter your chosen operation: %
+# ✅ Result: 0.0

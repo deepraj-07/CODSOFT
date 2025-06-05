@@ -34,3 +34,19 @@ if length.isdigit():
         print("Tip: Copy and save it in a safe place.")
 else:
     print("❌ Please enter a valid number for password length.")
+
+#Output Display:
+
+# 🔐 Welcome to the Password Generator!
+# You can create strong passwords with letters, numbers, and symbols.
+
+# Enter the desired password length (e.g., 8, 10, 12): 8
+# Choose password strength level:
+# 1 ➜ Letters only
+# 2 ➜ Letters and Numbers
+# 3 ➜ Letters, Numbers, and Symbols
+# Enter 1, 2, or 3: 3
+
+# ✅ Your generated password is:
+#  !6,y9ojx
+# Tip: Copy and save it in a safe place.

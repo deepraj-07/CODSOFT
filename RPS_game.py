@@ -43,3 +43,53 @@ while True:
         print("Thanks for playing!")
         break
     print()
+
+#Output Display:
+# 🎮 Welcome to Rock-Paper-Scissors Game!
+# Rules: Rock beats Scissors, Scissors beat Paper, Paper beats Rock
+
+# Choose one: rock, paper, or scissors
+# Your choice: rock
+# 🤖 Computer chose: scissors
+# ✅ You win this round!
+# 📊 Score ➤ You: 1 | Computer: 0
+# 🔁 Do you want to play another round? (yes/no): yes
+
+# Choose one: rock, paper, or scissors
+# Your choice: rock
+# 🤖 Computer chose: paper
+# ❌ You lose this round!
+# 📊 Score ➤ You: 1 | Computer: 1
+# 🔁 Do you want to play another round? (yes/no): yes
+
+# Choose one: rock, paper, or scissors
+# Your choice: paper
+# 🤖 Computer chose: scissors
+# ❌ You lose this round!
+# 📊 Score ➤ You: 1 | Computer: 2
+# 🔁 Do you want to play another round? (yes/no): yes
+
+# Choose one: rock, paper, or scissors
+# Your choice: rock
+# 🤖 Computer chose: paper
+# ❌ You lose this round!
+# 📊 Score ➤ You: 1 | Computer: 3
+# 🔁 Do you want to play another round? (yes/no): yes
+
+# Choose one: rock, paper, or scissors
+# Your choice: scissors
+# 🤖 Computer chose: paper
+# ✅ You win this round!
+# 📊 Score ➤ You: 2 | Computer: 3
+# 🔁 Do you want to play another round? (yes/no): yes
+
+# Choose one: rock, paper, or scissors
+# Your choice: rock
+# 🤖 Computer chose: paper
+# ❌ You lose this round!
+# 📊 Score ➤ You: 2 | Computer: 4
+# 🔁 Do you want to play another round? (yes/no): no
+
+# 🎉 Final Score ➤ You: 2 | Computer: 4
+# 😢 Sorry, the computer won!
+# Thanks for playing!
