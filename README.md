@@ -86,19 +86,6 @@ If time allows, I plan to enhance this repository with:
 
 ---
 
-## 🎥 Showcase Video
-
-📌 *Demo Video on LinkedIn (Coming soon)*  
-Follow for updates and project walkthroughs.
-
----
-
-## 🔗 Hashtags
-
-`#codsoft #python #internship #projectbasedlearning #learningbydoing`
-
----
-
 ## 📬 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/deep-raj-906804328/)  
@@ -107,7 +94,7 @@ Follow for updates and project walkthroughs.
 
 ---
 
-## ✨ Final Note
+## ✨ Final takeaways
 
 This internship wasn’t just a learning checkpoint – it was a launchpad. Each task helped me improve as a Python programmer and made coding fun again.
 
